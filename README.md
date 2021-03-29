@@ -309,7 +309,7 @@
 
 ![image](https://user-images.githubusercontent.com/25112157/112875859-1ca77800-909b-11eb-94a3-507cc24ab77d.png)
 
-- Clique em começar quando tiver inserido todos os videos e a mensagem "Convertendo Video..." ira aparecer
+- Clique em começar quando tiver inserido todos os videos. A mensagem "Convertendo Video..." irá aparecer
 
 ![image](https://user-images.githubusercontent.com/25112157/112875111-2381bb00-909a-11eb-8a55-f4c1fe491bac.png)
 
