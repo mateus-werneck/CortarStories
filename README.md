@@ -308,8 +308,6 @@
 - Arraste quantos videos desejar processar
 
 ![image](https://user-images.githubusercontent.com/25112157/112875859-1ca77800-909b-11eb-94a3-507cc24ab77d.png)
-![image](https://user-images.githubusercontent.com/25112157/112875025-09e07380-909a-11eb-81f0-7040863032ee.png)
-
 
 - Clique em começar quando tiver inserido todos os videos e a mensagem "Convertendo Video..." ira aparecer
 
