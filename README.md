@@ -237,7 +237,7 @@
 ### Ferramentas Utilizadas
 
 * [Python](https://www.python.org/)
-* [MoviePY] (https://zulko.github.io/moviepy)
+* [MoviePY](https://zulko.github.io/moviepy)
 
 
 
