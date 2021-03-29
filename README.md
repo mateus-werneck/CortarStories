@@ -114,7 +114,7 @@
     ```sh
     cd CortarStories
      ```
-4. Execute MediaSaver
+4. Execute StoriesCutter
    ```sh
     python3 StoriesCutter.py
     ```
@@ -148,6 +148,7 @@
 
 
 ## Things to do
+-Implement method to abort operation when "Cancel" button is clicked
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -306,7 +307,7 @@
     ```sh
     cd CortarStories
      ```
-4. Execute o MediaSaver
+4. Execute o programa CortarStories
    ```sh
     python3 CortarStories.py
     ```
@@ -340,6 +341,7 @@
 
 ## O que Falta
 
+-Implementar função para abortar operação quando o botão "Cancelar" for clicado
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
