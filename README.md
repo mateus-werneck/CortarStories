@@ -56,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![image](https://user-images.githubusercontent.com/25112157/112511254-03d45500-8d71-11eb-8db3-434f291b0869.png)
+![image](https://user-images.githubusercontent.com/25112157/112874842-cc7be600-9099-11eb-9a45-bfdea01ebb03.png)
 
 
 
@@ -230,6 +230,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre O Projeto
 
+![image](https://user-images.githubusercontent.com/25112157/112874865-d4d42100-9099-11eb-8a26-89bded2471f8.png)
 
 
 
