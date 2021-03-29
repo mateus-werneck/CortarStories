@@ -93,11 +93,11 @@
 
 1. Download the latest release
    ```sh
-   Download MediaSaver_EN.zip on https://github.com/mateus-werneck/MidiaSave/releases
+   Download StoriesCutter.zip on https://github.com/mateus-werneck/CortarStories/releases
    ```
 2. Extract it anywhere you want
 
-3. Open MediaSaver
+3. Open StoriesCutter
 
 <br />
 
@@ -109,20 +109,20 @@
      ```
 2. Clone the repository
      ```sh
-    git clone  https://github.com/mateus-werneck/MidiaSave.git
+    git clone  https://github.com/mateus-werneck/CortarStories.git
      ```
 3. Open the directory
     ```sh
-    cd MidiaSave
+    cd CortarStories
      ```
 4. Execute MediaSaver
    ```sh
-    python3 MediaSaverEN.py
+    python3 StoriesCutter.py
     ```
 5.Create an Alias (Optional)
 
    ```sh
-    1. sudo nano ~/.bash_aliases  2.Then type: alias mediasave='python3 ~/MidiaSave/MediaSaverEN.py'  3. Save file  4. source ~/.bash_aliases
+    1. sudo nano ~/.bash_aliases  2.Then type: alias cut stories='python3 ~/CortarStories/StoriesCutter.py'  3. Save file  4. source ~/.bash_aliases
    ```
 
 
@@ -267,11 +267,11 @@
 
 1. Baixe a versão mais recente
    ```sh
-   Baixe o arquivo MidiaSave_BR.zip em https://github.com/mateus-werneck/MidiaSave/releases
+   Baixe o arquivo CortarStories.zip em https://github.com/mateus-werneck/CortarStories/releases
    ```
-2. Extraia a pasta MidiaSave para o lugar que achar melhor
+2. Extraia a pasta CortarStories para o lugar que achar melhor
 
-3. Abra o arquivo MidiaSaver
+3. Abra o arquivo CortarStories
 
 
 
@@ -286,20 +286,20 @@
 
 2. Clone o repositório
      ```sh
-    git clone  https://github.com/mateus-werneck/MidiaSave.git
+    git clone  https://github.com/mateus-werneck/CortarStories.git
      ```
 3. Abra o diretório no terminal
     ```sh
-    cd MidiaSave
+    cd CortarStories
      ```
 4. Execute o MediaSaver
    ```sh
-    python3 main.py
+    python3 CortarStories.py
     ```
 5.Criar um Alias (Optional)
 
    ```sh
-    1. sudo nano ~/.bash_aliases 2.Digite: alias mediasave='python3 ~/MidiaSave/english_main.py' 3. Salve o arquivo 4. source ~/.bash_aliases
+    1. sudo nano ~/.bash_aliases 2.Digite: alias cortar stories='python3 ~/CortarStories/CortarStories.py' 3. Salve o arquivo 4. source ~/.bash_aliases
    ```
 
 <!-- USAGE EXAMPLES -->
