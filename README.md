@@ -8,13 +8,13 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Simple Media Saver</h3>
+  <h3 align="center">Simple Stories Cutterr</h3>
 
   <p align="center">
-    Simple Python application to save Instagram and Twitter media (Pictures, Videos, GIFs, Stories)
+    Simple Python application to cut any video into different parts of 15 seconds each
     <br />
     <br />
-    Aplicação em Python para salvar arquivos de mídia do Instragram e Twitter (Imagens, Videos, GIFs e Stories)
+    Aplicação em Python para dividir qualquer vídeo em várias partes de 15 segundos cada
     <br /> 
     <a href="#português-brasil">Português Brasil</a>
     <br />
