@@ -305,7 +305,18 @@
 <!-- USAGE EXAMPLES -->
 ## Como Usar
 
+- Arraste quantos videos desejar processar
 
+![image](https://user-images.githubusercontent.com/25112157/112875025-09e07380-909a-11eb-81f0-7040863032ee.png)
+
+
+- Clique em começar quando tiver inserido todos os videos e a mensagem "Convertendo Video..." ira aparecer
+
+![image](https://user-images.githubusercontent.com/25112157/112875111-2381bb00-909a-11eb-8a55-f4c1fe491bac.png)
+
+- Aguarde a mensagem de finalização
+
+![image](https://user-images.githubusercontent.com/25112157/112875242-51ff9600-909a-11eb-8afc-158f5b76f79c.png)
 
 
 ## O que Falta
