@@ -128,6 +128,21 @@
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+- Drag and Drop any videos you want
+
+![image](https://user-images.githubusercontent.com/25112157/112875859-1ca77800-909b-11eb-94a3-507cc24ab77d.png)
+
+- Click Start. The message "Converting Video(s)..." will show up
+
+![image](https://user-images.githubusercontent.com/25112157/112875111-2381bb00-909a-11eb-8a55-f4c1fe491bac.png)
+
+- Wait for the message confirming the conversion
+
+![image](https://user-images.githubusercontent.com/25112157/112878968-e966e800-909e-11eb-8c47-2671173ebdeb.png)
+
+- A new folder will be generated for each video inserted
+
+![image](https://user-images.githubusercontent.com/25112157/112876450-eb7b7780-909b-11eb-8a24-4e5d860fd171.png)
 
 
 
