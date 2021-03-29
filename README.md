@@ -316,7 +316,8 @@
 - Aguarde a mensagem de finalização
 
 ![image](https://user-images.githubusercontent.com/25112157/112875242-51ff9600-909a-11eb-8afc-158f5b76f79c.png)
-![image](https://user-images.githubusercontent.com/25112157/112876380-d69ee400-909b-11eb-9f65-ae6ed619c6c8.png)
+![image](https://user-images.githubusercontent.com/25112157/112876450-eb7b7780-909b-11eb-8a24-4e5d860fd171.png)
+
 
 
 
