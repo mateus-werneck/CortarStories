@@ -64,8 +64,7 @@
 ### Built With
 
 * [Python](https://www.python.org/)
-* [Selenium](https://www.selenium.dev/)
-* [wxPython](https://www.wxpython.org/)
+* [MoviePY](https://zulko.github.io/moviepy)
 
 
 
@@ -84,13 +83,8 @@
 
 * Dependencies
   ```sh
-  pip install beautifulsoup4 requests selenium urllib3 wxpython moviepy natsort
+  pip install moviepy
   ```
-
-  
-    ![image](https://user-images.githubusercontent.com/25112157/112690456-8f75e080-8e5a-11eb-93ae-322ace72991b.png)
-
-
 
 
 ### Installation
@@ -113,23 +107,19 @@
     ```sh
     sudo apt install python3.9
      ```
-2. Install geckdriver(Selenium)
-    ```sh
-    https://github.com/mozilla/geckodriver/releases
-     ```
-3. Clone the repository
+2. Clone the repository
      ```sh
     git clone  https://github.com/mateus-werneck/MidiaSave.git
      ```
-4. Open the directory
+3. Open the directory
     ```sh
     cd MidiaSave
      ```
-5. Execute MediaSaver
+4. Execute MediaSaver
    ```sh
     python3 MediaSaverEN.py
     ```
-6.Create an Alias (Optional)
+5.Create an Alias (Optional)
 
    ```sh
     1. sudo nano ~/.bash_aliases  2.Then type: alias mediasave='python3 ~/MidiaSave/MediaSaverEN.py'  3. Save file  4. source ~/.bash_aliases
@@ -139,23 +129,11 @@
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-![image](https://user-images.githubusercontent.com/25112157/112512332-0aaf9780-8d72-11eb-96a8-3d7bb9ffd9c8.png)
 
-
-![image](https://user-images.githubusercontent.com/25112157/112512195-e8b61500-8d71-11eb-8bba-6aae7a0b38e3.png)
-![image](https://user-images.githubusercontent.com/25112157/112512227-f10e5000-8d71-11eb-87b0-b77f47d14946.png)
-
-
-
-![image](https://user-images.githubusercontent.com/25112157/112511549-472ec380-8d71-11eb-91ce-1a546dd89475.png)
 
 
 
 ## Things to do
-
-~~1. Add Twitter video saving functionality (Only Images and Gif for now)~~
-
-2. Improvements to the UI and general stability
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -211,7 +189,7 @@
   <h3 align="center">Simple Media Saver</h3>
 
   <p align="center">
-    Aplicação em Python para salvar arquivos de mídia do Instragram e Twitter (Imagens, Videos, GIFs e Stories)
+    Aplicação em Python para dividir qualquer vídeo em várias partes de 15 segundos cada
     <br />
     <br />
     <br />
@@ -252,15 +230,14 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre O Projeto
 
-![image](https://user-images.githubusercontent.com/25112157/112514119-bd342a00-8d73-11eb-9501-aeec9d712ebb.png)
+
 
 
 
 ### Ferramentas Utilizadas
 
 * [Python](https://www.python.org/)
-* [Selenium](https://www.selenium.dev/)
-* [wxPython](https://www.wxpython.org/)
+* [MoviePY] (https://zulko.github.io/moviepy)
 
 
 
@@ -279,15 +256,10 @@
 
 * Dependências
   ```sh
-  pip install beautifulsoup4 requests selenium urllib3 wxpython moviepy natsort
+  pip install moviepy
   ```
 
   
-    ![image](https://user-images.githubusercontent.com/25112157/112690480-97ce1b80-8e5a-11eb-91cb-e622f385d8dc.png)
-
-
-
-
 ### Instalação
 
 **Windows**
@@ -310,23 +282,20 @@
     ```sh
     sudo apt install python3.9
      ```
-2. Instale o geckdriver(Selenium)
-    ```sh
-    https://github.com/mozilla/geckodriver/releases
-     ```
-3. Clone o repositório
+
+2. Clone o repositório
      ```sh
     git clone  https://github.com/mateus-werneck/MidiaSave.git
      ```
-4. Abra o diretório no terminal
+3. Abra o diretório no terminal
     ```sh
     cd MidiaSave
      ```
-5. Execute o MediaSaver
+4. Execute o MediaSaver
    ```sh
     python3 main.py
     ```
-6.Criar um Alias (Optional)
+5.Criar um Alias (Optional)
 
    ```sh
     1. sudo nano ~/.bash_aliases 2.Digite: alias mediasave='python3 ~/MidiaSave/english_main.py' 3. Salve o arquivo 4. source ~/.bash_aliases
@@ -335,21 +304,11 @@
 <!-- USAGE EXAMPLES -->
 ## Como Usar
 
-![image](https://user-images.githubusercontent.com/25112157/112514019-a8579680-8d73-11eb-8756-17773ecd4e40.png)
 
-
-![image](https://user-images.githubusercontent.com/25112157/112513879-878f4100-8d73-11eb-90d9-b7a3391d4190.png)
-![image](https://user-images.githubusercontent.com/25112157/112513913-8eb64f00-8d73-11eb-8ec1-a94c85c92418.png)
-
-
-![image](https://user-images.githubusercontent.com/25112157/112426724-2f2a5600-8d17-11eb-9394-879204d7db00.png)
 
 
 ## O que Falta
 
-~~1. Implementar método para salvar Videos do Twitter. Por enquanto apenas Imagens e GIFs~~
-
-2. Pequenos ajustes na UI e na estabilidade geral do programa
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
