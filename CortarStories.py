@@ -32,9 +32,10 @@ class WorkerThread(Thread):
     def run(self):
         """Run Worker Thread."""
         cutVideo(path)
+        path.clear()
         if self._want_abort:
             wx.PostEvent(self._notify_window, ResultEvent(None))
-            return
+            return 0
         wx.PostEvent(self._notify_window, ResultEvent(True))
 
     def abort(self):
@@ -57,7 +58,7 @@ class StoriesDragDrop(wx.FileDropTarget):
         for filepath in filenames:
             path.append(filepath)
             self.window.updateText(filepath + '\n')
-            return True        
+        return True        
 ########################################################################
 class Panel(wx.Panel):
     """"""
@@ -120,7 +121,7 @@ class Frame(wx.Frame):
         wx.OK | wx.ICON_INFORMATION) 
     
     def MessageSave(self):
-        wx.MessageBox('Arquivo convertido com sucesso!', '',
+        wx.MessageBox('Arquivo(s) convertido(s) com sucesso!', '',
         wx.OK | wx.ICON_INFORMATION)
     
     def MessageErro(self):
@@ -134,7 +135,7 @@ class Frame(wx.Frame):
         else:    
             if not self.worker:
                 self.worker = WorkerThread(self)
-                self.SetStatusText('Convertendo Video...')
+                self.SetStatusText('Convertendo Video(s)...')
     
     def OnResult(self, event):
         """Show Result status."""
