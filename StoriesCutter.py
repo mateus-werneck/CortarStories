@@ -32,6 +32,7 @@ class WorkerThread(Thread):
     def run(self):
         """Run Worker Thread."""
         cutVideo(path)
+        path.clear()
         if self._want_abort:
             wx.PostEvent(self._notify_window, ResultEvent(None))
             return
