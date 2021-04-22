@@ -311,7 +311,8 @@
   ```sh
   pip install moviepy
   ```
-
+<br />
+<br />
   
 ### Instalação
 
@@ -352,7 +353,9 @@
     1. sudo nano ~/.bash_aliases 2.Digite: alias cortar stories='python3 ~/CortarStories/Python/CortarStories.py' 3. Salve o arquivo 4. source ~/.bash_aliases
    ```
 
-<!-- USAGE EXAMPLES -->
+<br />
+<br />
+
 ## Como Usar (Desktop)
 
 - Arraste quantos videos desejar processar
@@ -372,7 +375,7 @@
 ![image](https://user-images.githubusercontent.com/25112157/112876450-eb7b7780-909b-11eb-8a24-4e5d860fd171.png)
 
 
-
+<br />
 
 ## O que Falta
 
