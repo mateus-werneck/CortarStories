@@ -55,8 +55,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![CortarStories](https://user-images.githubusercontent.com/25112157/115719201-41b5a080-a352-11eb-8270-27471ff99ef5.jpg)
-
+![CortarStories](https://user-images.githubusercontent.com/25112157/115719439-76c1f300-a352-11eb-90e8-f45f9ecb3358.jpg)
 ![image](https://user-images.githubusercontent.com/25112157/112878654-93924000-909e-11eb-9420-fb81900e15fe.png)
 
 
