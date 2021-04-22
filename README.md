@@ -238,6 +238,7 @@
       </ul>
     </li>
     <li>
+      <br />
       <a href="Android">Android<a/>
       <ul>
         <li><a href="#instalação">Instalação</a></li>
@@ -245,6 +246,7 @@
       </ul>
     </li>
     <li>
+      <br />
       <a href="Windows/Linux">Windows/Linux<a/>
       <ul>
         <li><a href="#pré-requisitos">Pré-requisitos</a></li>
