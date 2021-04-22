@@ -356,7 +356,7 @@
 <br />
 <br />
 
-## Como Usar (Desktop)
+### Como Usar (Desktop)
 
 - Arraste quantos videos desejar processar
 
@@ -377,7 +377,7 @@
 
 <br />
 
-## O que Falta
+### O que Falta
 
 -Implementar função para abortar operação quando o botão "Cancelar" for clicado (Windows/Linux)
 
