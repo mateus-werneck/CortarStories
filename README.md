@@ -246,10 +246,10 @@
       </ul>
     </li>
     <li>
-      <a href="#Desktop">Windows/Linux<a/>
+      <a href="windows-/-linux">Windows/Linux<a/>
       <ul>
         <li><a href="#pré-requisitos">Pré-requisitos</a></li>
-        <li><a href="#instalação-desktop">Instalação</a></li>
+        <li><a href="#instalação-desktop">Instalação (Desktop) </a></li>
         <li><a href="#como-usar-desktop">Como Usar (Desktop)</a></li>
         <li><a href="#o-que-falta">O que Falta</a></li>
       </ul>
@@ -314,7 +314,7 @@
 <br />
 <br />
   
-### Instalação
+### Instalação (Desktop)
 
 **Windows**
 
