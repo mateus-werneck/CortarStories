@@ -263,13 +263,14 @@
 
 ![CortarStories](https://user-images.githubusercontent.com/25112157/115719669-b2f55380-a352-11eb-8902-a6ed4a140062.jpg)
 
-<br />
 
 ### Ferramentas Utilizadas
 * [AndroidStudio](https://developer.android.com/studio)
 * [Python](https://www.python.org/)
 * [MoviePY](https://zulko.github.io/moviepy)
 
+<br />
+<br />
 
 ### Android
 
