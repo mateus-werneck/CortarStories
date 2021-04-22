@@ -95,6 +95,8 @@
    Baixe o arquivo CortarStories_arm.apk ou CortarStories_x86.apk em https://github.com/mateus-werneck/CortarStories/releases
    ```
 
+
+
 **Windows**
 
 1. Download the latest release
@@ -242,9 +244,8 @@
         <li><a href="#como-usar">Como Usar</a></li>
       </ul>
     </li>
-      <ul>
+    <li>
       <a href="Windows/Linux">Windows/Linux<a/>
-      <a href="#como-começar">Como Começar</a>
       <ul>
         <li><a href="#pré-requisitos">Pré-requisitos</a></li>
         <li><a href="#instalação">Instalação</a></li>
@@ -263,11 +264,11 @@
 ![CortarStories](https://user-images.githubusercontent.com/25112157/115719669-b2f55380-a352-11eb-8902-a6ed4a140062.jpg)
 
 
-
 ### Ferramentas Utilizadas
 * [AndroidStudio](https://developer.android.com/studio)
 * [Python](https://www.python.org/)
 * [MoviePY](https://zulko.github.io/moviepy)
+
 
 ### Android
 
@@ -288,10 +289,8 @@
 ![CortarStories05](https://user-images.githubusercontent.com/25112157/115721931-e0430100-a354-11eb-9d0b-dc2bef956b6c.jpg)
 
 
-<!-- GETTING STARTED -->
-## Windows/Linux
 
-## Como Começar
+### Windows/Linux
 
 ### Pré-requisitos
 
