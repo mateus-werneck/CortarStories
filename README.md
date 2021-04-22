@@ -246,7 +246,7 @@
       </ul>
     </li>
     <li>
-      <a href="#windows-e-linux">Windows e Linux<a/>
+      <a href="#windows-e-linux">Windows/Linux<a/>
       <ul>
         <li><a href="#pré-requisitos">Pré-requisitos</a></li>
         <li><a href="#instalação-desktop">Instalação (Desktop) </a></li>
@@ -295,7 +295,7 @@
 <br />
 <br />
 
-# Windows e Linux
+# Windows/Linux
 
 ### Pré-requisitos
 
