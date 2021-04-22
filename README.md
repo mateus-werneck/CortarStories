@@ -259,7 +259,7 @@
 
 <br />
 <br />
-## Sobre O Projeto
+# Sobre O Projeto
 
 ![CortarStories](https://user-images.githubusercontent.com/25112157/115719669-b2f55380-a352-11eb-8902-a6ed4a140062.jpg)
 
@@ -272,9 +272,9 @@
 <br />
 <br />
 
-### Android
+## Android
 
-## Instalação
+### Instalação
 
 1. Baixe e Instale o APK
 
@@ -293,7 +293,7 @@
 <br />
 <br />
 
-### Windows/Linux
+## Windows/Linux
 
 ### Pré-requisitos
 
