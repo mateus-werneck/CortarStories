@@ -258,7 +258,7 @@
 </details>
 
 
-## Sobre O Projeto
+### Sobre O Projeto
 
 ![CortarStories](https://user-images.githubusercontent.com/25112157/115719669-b2f55380-a352-11eb-8902-a6ed4a140062.jpg)
 
@@ -280,7 +280,7 @@
  ```sh
    Baixe o arquivo CortarStories_arm.apk ou CortarStories_x86.apk em https://github.com/mateus-werneck/CortarStories/releases
    ```
-### Como Usar
+##### Como Usar
 
 ![CortarStories](https://user-images.githubusercontent.com/25112157/115721919-de793d80-a354-11eb-86b7-20357d9897b0.jpg)
 ![CortarStories02](https://user-images.githubusercontent.com/25112157/115721921-df11d400-a354-11eb-97c2-192379c2edf5.jpg)
