@@ -238,7 +238,6 @@
       </ul>
     </li>
     <li>
-      <br />
       <a href="Android">Android<a/>
       <ul>
         <li><a href="#instalação">Instalação</a></li>
@@ -246,7 +245,6 @@
       </ul>
     </li>
     <li>
-      <br />
       <a href="Windows/Linux">Windows/Linux<a/>
       <ul>
         <li><a href="#pré-requisitos">Pré-requisitos</a></li>
@@ -271,6 +269,7 @@
 * [Python](https://www.python.org/)
 * [MoviePY](https://zulko.github.io/moviepy)
 
+<br />
 
 ### Android
 
@@ -290,7 +289,7 @@
 ![CortarStories04](https://user-images.githubusercontent.com/25112157/115721929-dfaa6a80-a354-11eb-8528-2fa44189b57d.jpg)
 ![CortarStories05](https://user-images.githubusercontent.com/25112157/115721931-e0430100-a354-11eb-9d0b-dc2bef956b6c.jpg)
 
-
+<br />
 
 ### Windows/Linux
 
