@@ -236,6 +236,13 @@
       </ul>
     </li>
     <li>
+      <a href="Android">Android<a/>
+      <ul>
+        <li><a href="#instalação">Instalação</a></li>
+        <li><a href="#como-usar">Como Usar</a></li>
+      </ul>
+    </li>
+      <a href="Windows/Linux">Windows/Linux<a/>
       <a href="#como-começar">Como Começar</a>
       <ul>
         <li><a href="#pré-requisitos">Pré-requisitos</a></li>
@@ -261,9 +268,28 @@
 * [Python](https://www.python.org/)
 * [MoviePY](https://zulko.github.io/moviepy)
 
+### Android
+
+## Instalação
+
+1. Baixe e Instale o APK
+
+ ```sh
+   Baixe o arquivo CortarStories_arm.apk ou CortarStories_x86.apk em https://github.com/mateus-werneck/CortarStories/releases
+   ```
+### Como Usar
+
+![CortarStories](https://user-images.githubusercontent.com/25112157/115721919-de793d80-a354-11eb-86b7-20357d9897b0.jpg)
+![CortarStories02](https://user-images.githubusercontent.com/25112157/115721921-df11d400-a354-11eb-97c2-192379c2edf5.jpg)
+![CortarStories03](https://user-images.githubusercontent.com/25112157/115721924-dfaa6a80-a354-11eb-928f-3f08a87c2e99.jpg)
+
+![CortarStories04](https://user-images.githubusercontent.com/25112157/115721929-dfaa6a80-a354-11eb-8528-2fa44189b57d.jpg)
+![CortarStories05](https://user-images.githubusercontent.com/25112157/115721931-e0430100-a354-11eb-9d0b-dc2bef956b6c.jpg)
 
 
 <!-- GETTING STARTED -->
+## Windows/Linux
+
 ## Como Começar
 
 ### Pré-requisitos
@@ -283,14 +309,6 @@
 
   
 ### Instalação
-
-**Android**
-
-1. Baixe e Instale o APK
-
- ```sh
-   Baixe o arquivo CortarStories_arm.apk ou CortarStories_x86.apk em https://github.com/mateus-werneck/CortarStories/releases
-   ```
 
 **Windows**
 
@@ -332,20 +350,6 @@
 <!-- USAGE EXAMPLES -->
 ## Como Usar
 
-**Android**
-
-![CortarStories](https://user-images.githubusercontent.com/25112157/115721919-de793d80-a354-11eb-86b7-20357d9897b0.jpg)
-![CortarStories02](https://user-images.githubusercontent.com/25112157/115721921-df11d400-a354-11eb-97c2-192379c2edf5.jpg)
-![CortarStories03](https://user-images.githubusercontent.com/25112157/115721924-dfaa6a80-a354-11eb-928f-3f08a87c2e99.jpg)
-
-![CortarStories04](https://user-images.githubusercontent.com/25112157/115721929-dfaa6a80-a354-11eb-8528-2fa44189b57d.jpg)
-![CortarStories05](https://user-images.githubusercontent.com/25112157/115721931-e0430100-a354-11eb-9d0b-dc2bef956b6c.jpg)
-
-
-
-
-
-**Windows/Linux**
 - Arraste quantos videos desejar processar
 
 ![image](https://user-images.githubusercontent.com/25112157/112875859-1ca77800-909b-11eb-94a3-507cc24ab77d.png)
