@@ -238,10 +238,10 @@
       </ul>
     </li>
     <li>
-      <a href="Android">Android<a/>
+      <a href="#Android">Android<a/>
       <ul>
         <li><a href="#instalação">Instalação</a></li>
-        <li><a href="#como-usar">Como Usar</a></li>
+        <li><a href="#Como-usar">Como Usar</a></li>
       </ul>
     </li>
     <li>
@@ -285,8 +285,8 @@
 ![CortarStories](https://user-images.githubusercontent.com/25112157/115721919-de793d80-a354-11eb-86b7-20357d9897b0.jpg)
 ![CortarStories02](https://user-images.githubusercontent.com/25112157/115721921-df11d400-a354-11eb-97c2-192379c2edf5.jpg)
 ![CortarStories03](https://user-images.githubusercontent.com/25112157/115721924-dfaa6a80-a354-11eb-928f-3f08a87c2e99.jpg)
-
 ![CortarStories04](https://user-images.githubusercontent.com/25112157/115721929-dfaa6a80-a354-11eb-8528-2fa44189b57d.jpg)
+
 ![CortarStories05](https://user-images.githubusercontent.com/25112157/115721931-e0430100-a354-11eb-9d0b-dc2bef956b6c.jpg)
 
 <br />
