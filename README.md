@@ -246,7 +246,7 @@
       </ul>
     </li>
     <li>
-      <a href="Desktop">Windows/Linux<a/>
+      <a href="#Windows/Linux">Windows/Linux<a/>
       <ul>
         <li><a href="#pré-requisitos">Pré-requisitos</a></li>
         <li><a href="#instalação">Instalação</a></li>
