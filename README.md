@@ -242,6 +242,7 @@
         <li><a href="#como-usar">Como Usar</a></li>
       </ul>
     </li>
+      <ul>
       <a href="Windows/Linux">Windows/Linux<a/>
       <a href="#como-começar">Como Começar</a>
       <ul>
