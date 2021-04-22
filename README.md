@@ -89,10 +89,10 @@
 
 **Android**
 
-1. Baixe e Instale o APK
+1. Download and Install APK file
 
  ```sh
-   Baixe o arquivo CortarStories_arm.apk ou CortarStories_x86.apk em https://github.com/mateus-werneck/CortarStories/releases
+   Download CortarStories_arm.apk or CortarStories_x86.apk at https://github.com/mateus-werneck/CortarStories/releases
    ```
 
 
@@ -246,7 +246,7 @@
       </ul>
     </li>
     <li>
-      <a href="Windows/Linux">Windows/Linux<a/>
+      <a href="Desktop">Windows/Linux<a/>
       <ul>
         <li><a href="#pré-requisitos">Pré-requisitos</a></li>
         <li><a href="#instalação">Instalação</a></li>
