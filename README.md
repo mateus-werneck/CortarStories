@@ -249,10 +249,10 @@
       <ul>
         <li><a href="#pré-requisitos">Pré-requisitos</a></li>
         <li><a href="#instalação">Instalação</a></li>
+        <li><a href="#como-usar">Como Usar</a></li>
+        <li><a href="#o-que-falta">O que Falta</a></li>
       </ul>
-    </li>
-    <li><a href="#como-usar">Como Usar</a></li>
-    <li><a href="#o-que-falta">O que Falta</a></li>
+    </li>    
   </ol>
 </details>
 
