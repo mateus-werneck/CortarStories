@@ -56,14 +56,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 ![CortarStories](https://user-images.githubusercontent.com/25112157/115719439-76c1f300-a352-11eb-90e8-f45f9ecb3358.jpg)
-![image](https://user-images.githubusercontent.com/25112157/112878654-93924000-909e-11eb-9420-fb81900e15fe.png)
-
-
 
 
 
 ### Built With
-
+* [AndroidStudio](https://developer.android.com/studio)
 * [Python](https://www.python.org/)
 * [MoviePY](https://zulko.github.io/moviepy)
 
@@ -90,6 +87,14 @@
 
 ### Installation
 
+**Android**
+
+1. Baixe e Instale o APK
+
+ ```sh
+   Baixe o arquivo CortarStories_arm.apk ou CortarStories_x86.apk em https://github.com/mateus-werneck/CortarStories/releases
+   ```
+
 **Windows**
 
 1. Download the latest release
@@ -114,7 +119,7 @@
      ```
 3. Open the directory
     ```sh
-    cd CortarStories
+    cd CortarStories/Python
      ```
 4. Execute StoriesCutter
    ```sh
@@ -123,7 +128,7 @@
 5.Create an Alias (Optional)
 
    ```sh
-    1. sudo nano ~/.bash_aliases  2.Then type: alias cut stories='python3 ~/CortarStories/StoriesCutter.py'  3. Save file  4. source ~/.bash_aliases
+    1. sudo nano ~/.bash_aliases  2.Then type: alias cut stories='python3 ~/CortarStories/Python/StoriesCutter.py'  3. Save file  4. source ~/.bash_aliases
    ```
 
 
@@ -247,13 +252,12 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre O Projeto
 
-![image](https://user-images.githubusercontent.com/25112157/112874865-d4d42100-9099-11eb-8a26-89bded2471f8.png)
-
+![CortarStories](https://user-images.githubusercontent.com/25112157/115719669-b2f55380-a352-11eb-8902-a6ed4a140062.jpg)
 
 
 
 ### Ferramentas Utilizadas
-
+* [AndroidStudio](https://developer.android.com/studio)
 * [Python](https://www.python.org/)
 * [MoviePY](https://zulko.github.io/moviepy)
 
@@ -280,6 +284,14 @@
   
 ### Instalação
 
+**Android**
+
+1. Baixe e Instale o APK
+
+ ```sh
+   Baixe o arquivo CortarStories_arm.apk ou CortarStories_x86.apk em https://github.com/mateus-werneck/CortarStories/releases
+   ```
+
 **Windows**
 
 1. Baixe a versão mais recente
@@ -289,10 +301,8 @@
 2. Extraia a pasta CortarStories para o lugar que achar melhor
 
 3. Abra o arquivo CortarStories
-
-
-
 <br />
+
 
 **Linux**
 
@@ -307,7 +317,7 @@
      ```
 3. Abra o diretório no terminal
     ```sh
-    cd CortarStories
+    cd CortarStories/Python
      ```
 4. Execute o programa CortarStories
    ```sh
@@ -316,12 +326,19 @@
 5.Criar um Alias (Optional)
 
    ```sh
-    1. sudo nano ~/.bash_aliases 2.Digite: alias cortar stories='python3 ~/CortarStories/CortarStories.py' 3. Salve o arquivo 4. source ~/.bash_aliases
+    1. sudo nano ~/.bash_aliases 2.Digite: alias cortar stories='python3 ~/CortarStories/Python/CortarStories.py' 3. Salve o arquivo 4. source ~/.bash_aliases
    ```
 
 <!-- USAGE EXAMPLES -->
 ## Como Usar
 
+**Android**
+
+
+
+
+
+**Windows/Linux**
 - Arraste quantos videos desejar processar
 
 ![image](https://user-images.githubusercontent.com/25112157/112875859-1ca77800-909b-11eb-94a3-507cc24ab77d.png)
@@ -343,7 +360,7 @@
 
 ## O que Falta
 
--Implementar função para abortar operação quando o botão "Cancelar" for clicado
+-Implementar função para abortar operação quando o botão "Cancelar" for clicado (Windows/Linux)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
