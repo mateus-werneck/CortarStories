@@ -257,8 +257,8 @@
 </details>
 
 
-
-<!-- ABOUT THE PROJECT -->
+<br />
+<br />
 ## Sobre O Projeto
 
 ![CortarStories](https://user-images.githubusercontent.com/25112157/115719669-b2f55380-a352-11eb-8902-a6ed4a140062.jpg)
