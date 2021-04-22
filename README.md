@@ -271,7 +271,7 @@
 <br />
 <br />
 
-## Android
+# Android
 
 ### Instalação
 
@@ -280,7 +280,10 @@
  ```sh
    Baixe o arquivo CortarStories_arm.apk ou CortarStories_x86.apk em https://github.com/mateus-werneck/CortarStories/releases
    ```
-##### Como Usar
+<br />
+<br />
+
+### Como Usar
 
 ![CortarStories](https://user-images.githubusercontent.com/25112157/115721919-de793d80-a354-11eb-86b7-20357d9897b0.jpg)
 ![CortarStories02](https://user-images.githubusercontent.com/25112157/115721921-df11d400-a354-11eb-97c2-192379c2edf5.jpg)
@@ -292,7 +295,7 @@
 <br />
 <br />
 
-## Windows/Linux
+# Windows/Linux
 
 ### Pré-requisitos
 
