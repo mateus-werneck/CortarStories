@@ -278,7 +278,7 @@
 1. Baixe e Instale o APK
 
  ```sh
-   Baixe o arquivo CortarStories_arm.apk ou CortarStories_x86.apk em https://github.com/mateus-werneck/CortarStories/releases
+   Baixe o apk em https://github.com/mateus-werneck/CortarStories/releases
    ```
 <br />
 <br />
