@@ -267,6 +267,7 @@
 * [AndroidStudio](https://developer.android.com/studio)
 * [Python](https://www.python.org/)
 * [MoviePY](https://zulko.github.io/moviepy)
+* [FFmpeg](https://github.com/tanersener/mobile-ffmpeg)
 
 <br />
 <br />
@@ -278,7 +279,7 @@
 1. Baixe e Instale o APK
 
  ```sh
-   Baixe o apk em https://github.com/mateus-werneck/CortarStories/releases
+   Baixe o apk em https://github.com/mateus-werneck/Picotador_Android/releases
    ```
 <br />
 <br />
@@ -320,7 +321,7 @@
 
 1. Baixe a versão mais recente
    ```sh
-   Baixe o arquivo CortarStories.zip em https://github.com/mateus-werneck/CortarStories/releases
+   Baixe o arquivo CortarStories.zip em https://github.com/mateus-werneck/Picotador_Android/releases/tag/v0.1
    ```
 2. Extraia a pasta CortarStories para o lugar que achar melhor
 
