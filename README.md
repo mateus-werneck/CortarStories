@@ -34,7 +34,7 @@
   <ol>
     <ul>  
     <li><a href="#Built-with">Built with</a></li>
-    <\ul>
+    </ul>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
