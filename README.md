@@ -31,10 +31,9 @@
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-  <ol>
-    <ul>  
-    <li><a href="#Built-with">Built with</a></li>
-    </ul>
+  <ol> 
+    <a href="#Built-with">Built with</a><
+  
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
