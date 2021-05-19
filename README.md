@@ -32,11 +32,8 @@
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
         <li><a href="#Built-with">Built with</a></li>
-      </ul>
+      
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -50,12 +47,6 @@
     <li><a href="#português-brasil">Português Brasil</a></li>
   </ol>
 </details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-![CortarStories](https://user-images.githubusercontent.com/25112157/115719439-76c1f300-a352-11eb-90e8-f45f9ecb3358.jpg)
 
 
 
